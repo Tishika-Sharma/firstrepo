@@ -1,3 +1,3 @@
 # firstrepo
 This is my first git repo.
-Author-Tishika
+Author-Tishika(Sharma)
